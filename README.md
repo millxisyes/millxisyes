@@ -9,5 +9,5 @@
 # Websites
 https://millx.lol
 
-https://millx.buzz (W.I.P)
+https://millx.buzz
 
