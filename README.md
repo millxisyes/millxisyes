@@ -8,4 +8,13 @@
 [![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/user/millx)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yourusername)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/millxismillx)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://millx.lol)
+[![Website](https://img.shields.io/badge/Internet_Computer-3B00B9?style=for-the-badge&logo=internet-computer&logoColor=white)](https://millx.lol)
+
+
+# Favourites:
+- **Favourite Anime:** Steins;Gate
+- **Favourite Colour:** Purple
+- **Favourite Game:** Persona 4 Golden
+
+
+Thanks for checking out my profile!
