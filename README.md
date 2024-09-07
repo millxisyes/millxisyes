@@ -12,7 +12,7 @@
 # Favourites:
 - **Favourite Anime:** Steins;Gate
 - **Favourite Colour:** Purple
-- **Favourite Game:** Persona 4 Golden
+- **Favourite Game:** Persona 5 Royal
 
 
 Thanks for checking out my profile!
